@@ -6,7 +6,7 @@ I am new here and trying to get the handle of this whole thing. So, please be ni
 - 🌱 I’m currently learning/working with Python, SQL, JavaScript, HTML, CSS, C++, and Looking into pixel art development. I  like games. :-)
 - 💞️ I’m looking to collaborate on anything that can make my brain learn and grow. Hopefully we can do that together!
 - 📫 How to reach me Just message me on here or reach out to me on social media. Bucky Goldstien is the name, Learning is my game.
-- OH! I almost forgot, I am also am an Analyist IRL. So, if anyone would like to reach out to me for anything that pertains to Quality Control, Continous Improvement, Mechanical Engineering, Systems Data, Etc. Just give me a shout! 
+- OH! I almost forgot, I am also am an Analyist IRL. So, if anyone would like to reach out to me for anything that pertains to Quality Control, Continous Improvement, Mechanical Engineering, Systems Data, Etc. Just give me a shout on twitter!! 
 
 <!---
 BuckyGold/BuckyGold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
